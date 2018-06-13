@@ -1,0 +1,14 @@
+# Copyright 2015-2018 The Qtah Authors.
+
+resolver: lts-10.3
+
+packages:
+- qtah
+- qtah-cpp
+- qtah-examples
+- qtah-generator
+
+extra-deps:
+- hoppy-generator-0.4.0
+- hoppy-runtime-0.4.0
+- hoppy-std-0.4.0
